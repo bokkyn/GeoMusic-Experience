@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 780de8f53a34c9345a85b81478e1dbd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - latitudeText: {instanceID: 0}
+  - longitudeText: {instanceID: 0}
+  - songVolumeText: {instanceID: 0}
+  - closestAttractionText: {instanceID: 0}
+  - closestAttractionDistanceText: {instanceID: 0}
+  - closestAttractionSongText: {instanceID: 0}
+  - aboutText: {instanceID: 0}
+  - textObject: {instanceID: 0}
+  - warningText: {instanceID: 0}
+  - GeospatialAssetPrefab: {fileID: 919132149155446097, guid: 830a1e37e1093b6469d8841276a2a86b,
+      type: 3}
+  - linkButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
