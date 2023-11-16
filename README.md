@@ -1,3 +1,5 @@
+![Photo](<photo.png>)
+
 # GeoMusic-Experience
 While traveling, immerse in local sights, local music, and AR-enhanced experiences. Explore with a click, discover with every step.
 
