@@ -12,7 +12,9 @@ https://youtu.be/BklWAbfb7ZI?si=lgd2fMJWnX_cVMHW
 3. Install and run the app on your device.
 4. Enjoy AR Experience.
 
+Click on menu icon to open menu:
 <img src="Assets/Icons/Tipka bolja.png" width="48">
+Three other colored world-balls will be shown.
 
 ## About
 Designed for tourists, this app simplifies sightseeing. Near each attraction, find a balloon and tag linked to the location. With just a click or two, access valuable information about the area. 
