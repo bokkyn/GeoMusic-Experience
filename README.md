@@ -12,9 +12,30 @@ https://youtu.be/BklWAbfb7ZI?si=lgd2fMJWnX_cVMHW
 3. Install and run the app on your device.
 4. Enjoy AR Experience.
 
-Click on menu icon to open menu:
+On top of the screen, you can see closest attraction and song that is connected to that attraction. (per example Empire State of Mind in Tribeca, or Tokyo drift in Shibuya, Tokyo)
+Each city can have unlimited number of attractions.
+At each attraction there is random color animated ballon playing a song. As you get closer, music gets louder.
+Near song and artist name, there is red icon, that, when clicked, opens song link, so user can save it.
+There is distance from location at bottom of the screen.
+
+**Click on menu icon to open menu:**
 <img src="Assets/Icons/Tipka bolja.png" width="48">
 Three other colored world-balls will be shown.
+
+**About:**
+<img src="Assets/Icons/tipka 2.png" width="48">
+It shows useful information about nearest location.
+
+**Near attractions:**
+<img src="Assets/Icons/tipka 1.png" width="48">
+It shows every attraction (and it's distance) in 15km radius, sorted by distance.
+
+**Location data:**
+<img src="Assets/Icons/tipka 3.png" width="48">
+It shows users latitude and longitude.
+Also, as the song linked to attraction plays louder and louder, as you get closer, it shows at which volume it is ow playing.
+Min. volume is 50%.
+
 
 ## About
 Designed for tourists, this app simplifies sightseeing. Near each attraction, find a balloon and tag linked to the location. With just a click or two, access valuable information about the area. 
@@ -26,3 +47,6 @@ add your key in:
 1.  build settings -> player settings -> ar core extensions
 2.  In AR Geospatial Creator Origin object in hierarchy
 
+
+Now, only added locations are in Split, Croatia, but we are working on adding more. 
+Also because of copyright, every song needs to be royality free.
