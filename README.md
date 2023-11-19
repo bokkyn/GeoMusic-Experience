@@ -12,6 +12,9 @@ https://youtu.be/BklWAbfb7ZI?si=lgd2fMJWnX_cVMHW
 3. Install and run the app on your device.
 4. Enjoy AR Experience.
 
+![Photo](<Assets/Icons/Tipka bolja.png>)
+
+
 ## About
 Designed for tourists, this app simplifies sightseeing. Near each attraction, find a balloon and tag linked to the location. With just a click or two, access valuable information about the area. 
 As you get closer, the music gets louder, immersing you in the local vibe. The app also provides a curated list of attractions within a 15km radius, enabling you to explore them all in a day without relying on local guides. It displays distances and includes song links, allowing you to remember them and save them in your playlist as souvenirs from your beautiful journey.
