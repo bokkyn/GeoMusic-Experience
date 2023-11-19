@@ -13,7 +13,7 @@ https://youtu.be/BklWAbfb7ZI?si=lgd2fMJWnX_cVMHW
 4. Enjoy AR Experience.
 
 ![Photo](<Assets/Icons/Tipka bolja.png>)
-
+<img src="Assets/Icons/Tipka bolja.png" width="48">
 
 ## About
 Designed for tourists, this app simplifies sightseeing. Near each attraction, find a balloon and tag linked to the location. With just a click or two, access valuable information about the area. 
